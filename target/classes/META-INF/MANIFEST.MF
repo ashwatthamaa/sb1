@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sb1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pankajbis
+Implementation-Vendor-Id: com.pankaj.springboot
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/sb1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
